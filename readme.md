@@ -9,7 +9,7 @@ The Entertainment App is a full-stack application designed to provide users with
 
 ## Important Links
 
-- API Documentation : https://capstone-backend-entertainment-sk.vercel.app/
+- API Documentation : https://documenter.getpostman.com/view/33101798/2sAYdcqrSx
 - Database Design: [Google Docs Link](https://docs.google.com/document/d/1yK26zcGxjXSKB_N4_M2G2YXIQtRUdNj68Im5M_Tolgc/edit?tab=t.0)
 
 
