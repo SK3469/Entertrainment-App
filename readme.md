@@ -5,7 +5,7 @@ The Entertainment App is a full-stack application designed to provide users with
 ## Deployment
 
 - **Frontend:** :- https://capstone-frontend-entertrainment.vercel.app/
-- **Backend:** :- https://capstone-backend-entertainment-sk.vercel.app/
+- **Backend:** :-https://capstone-backend-entertainment.onrender.com
 
 ## Important Links
 
